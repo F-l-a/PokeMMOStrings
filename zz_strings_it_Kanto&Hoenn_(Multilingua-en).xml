@@ -1,0 +1,1485 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<strings is_primary="0" lang="en" lang_full="English">
+	<!-- 
+		Strings used in Kanto and Hoenn found in the
+		dump_BPR_en.xml and dump_BPE_en.xml files respectively.
+	-->
+ <!-- PVE DIALOGO -->
+	<!-- Condizioni meteo attive -->
+		<string id="200400">{09}</string> <!-- Sole -->
+		<string id="200401">{09}</string> <!-- Pioggia -->
+		<string id="200402">{09}</string> <!-- Nebbia-->
+		<string id="200362">Neve ON</string> <!-- Ha iniziato a nevicare -->
+		<string id="200360">{09}</string> <!-- Neve -->
+		<string id="200361">Neve OFF</string> <!-- Ha smesso di nevicare -->
+	<!-- {00}'s Defense and Attack rose -->
+		<string id="200464">{09}</string>
+		<string id="200466">{09}</string>
+		<string id="200467">{09}</string>
+		<string id="200469">{09}</string>
+		<string id="200470">{09}</string>
+		<string id="200472">{09}</string>
+		<string id="200473">{09}</string>
+		<string id="200475">{09}</string>
+		<string id="200476">{09}</string>
+		<string id="200478">{09}</string>
+		<string id="200479">{09}</string>
+		<string id="200481">{09}</string>
+		<string id="200482">{09}</string>
+		<string id="200484">{09}</string>
+		<string id="200485">{09}</string>
+	<!-- CENTRO POKEMON -->
+  	 <!-- KANTO -->
+		<string id="1725571">{09}</string>
+		<string id="1725665">{09}</string>
+		<string id="1725713">{09}</string>
+		<string id="1725739">{09}</string>
+  	 <!-- HOENN -->
+		<string id="271001323">{09}</string>
+		<string id="271001496">{09}</string>
+		<string id="271001563">{09}</string>
+		<string id="271002048">{09}</string>
+	<!-- FOSILI -->
+	 <!-- KANTO -->
+		<string id="1680002">{09}</string>
+		<string id="1680148">{09}</string>
+		<string id="1680207">{09}</string>
+		<string id="1680286">{09}</string>
+		<string id="1680340">{09}</string>
+		<string id="1680477">{09}</string>
+		<string id="1680555">{09}</string>
+	 <!-- HOENN -->
+		<string id="270606152">{09}</string>
+		<string id="270606246">{09}</string>
+		<string id="270606675">{09}</string>
+		<string id="270606929">{09}</string>
+		<string id="270607051">{09}</string>
+	<!-- POKEMART -->
+	 <!-- Kanto -->
+		<string id="1729041">{09}</string>
+		<string id="1724816">{09}</string>
+	 <!-- Hoenn -->
+		<string id="16777228">{00}s \n{02}$</string>
+		<string id="270728859">{09}</string>
+		<string id="270728781">{09}</string>
+		<string id="271002145">{09}</string>
+		<string id="271002175">{09}</string>
+	<!-- PARCO LOTTA -->
+		<string id="270923770">{09}</string>
+		<string id="270925586">{09}</string>
+	<!-- Hoenn Bike Exchange -->
+		<string id="270594555">Cambia Bici?<!-- BIKES --></string>
+		<string id="270594607">{09}<!-- Yes --></string>
+		<string id="270594756">{09}<!-- No --></string>
+		<string id="270594659">BICI da CORSA</string>
+		<string id="270594708">BICI da CROSS</string>
+		<string id="270594493">{09}<!-- Goodbye --></string>
+		<string id="271002232">{03}!<!-- Obtain message --></string>
+
+	<!-- Shedinja Warning -->
+		<string id="2565">Level {00} - Space in party with a {STRING_245004}\nWarning: Only keeps 3 random IVs</string>
+ <!-- NPC GUARITORI -->
+    <string id="1561680">{09}</string>
+    <string id="1627089">{09}</string>
+    <string id="1627128">{09}</string>
+    <string id="270707064">{09}</string>
+    <string id="270707180">{09}</string>
+    <string id="270707222">{09}</string>
+    <string id="270707343">{09}</string>
+    <string id="270499080">{09}</string>
+    <string id="270499164">{09}</string>
+    <string id="270991100">{09}</string>
+ <!-- HMs -->
+	<!-- Restore PP -->
+	<string id="8600">+PP {01}?</string>
+    <string id="8601">\n\n\n\n\n\n\n\n\n\n\n\n{STRING_1577095} →{00} {01}← {STRING_1577095}\n\n\n\n\n\n\n\n\n\n\n\n</string>
+ 
+	<!-- Ocarina Text -->
+	<string id="16780155">{09}</string>
+	<!-- Hoenn - Cut -->
+	<string id="271124270">Taglio?<!-- Cut --></string>
+	<string id="271124337">{09}</string>
+	<string id="271124349">Non hai Taglio!</string>
+	<!-- Hoenn - Surf -->
+	<string id="271003606">Surf?<!-- Surf --></string>
+	<string id="271003661">{09}</string>
+	<!-- Hoenn - Rock Smash -->
+	<string id="271124538">Spaccaroccia?<!-- Rock smash --></string>
+	<string id="271124607">Non hai Spaccaroccia!</string>
+	<!-- Hoenn - Strength -->
+	<string id="271124780">Forza<!-- Strength --></string>
+	<string id="271124876">{09}</string>
+	<string id="271124950">Non hai Forza!</string>
+	<string id="271125014">{09}</string>
+	<!-- Hoenn - Dive -->
+	<string id="271125418">Non hai Sub!</string>
+	<string id="271125480">Sub?</string>
+	<string id="271125530">{09}</string>
+	<string id="271125544">Non hai Sub!</string>
+	<string id="271125614">Sub?</string>
+	<!-- Hoenn - Waterfall -->
+	<string id="271125134">Non hai Cascata!</string>
+	<string id="271125187">Cascata?<!-- Waterfall --></string>
+	<string id="271125244">{09}</string>
+
+	<!-- Kanto - Surf -->
+	<string id="1725806">Surf?<!-- Surf --></string>
+	<string id="1725861">{09}</string>
+	<!-- Kanto - Strength -->
+	<string id="1827226">Forza?<!-- Strength --></string>
+	<string id="1827322">{09}</string>
+	<string id="1827396">Non hai Forza!</string>
+	<string id="1827460">{09}</string>
+	<!-- Kanto - Waterfall -->
+	<string id="1827594">Non hai Cascata!</string>
+	<string id="1827647">Cascata?<!-- Waterfall --></string>
+	<string id="1827704">{09}</string>
+	<!-- Kanto - Dive -->
+	<string id="1827883">Non hai Sub!</string>
+	<string id="1827945">Sub?</string>
+	<string id="1827995">{09}</string>
+	<string id="1828009">Non hai Sub!</string>
+	<string id="1828079">Sub?</string>
+	<!-- Kanto - Cut -->
+	<string id="1826708">Taglio?<!-- Cut --></string>
+	<string id="1826775">{09}</string>
+	<string id="1826787">Non hai Taglio!</string>
+	<!-- Kanto - Rocksmash -->
+	<string id="1826973">Spaccaroccia?<!-- Rock Smash --></string>
+	<string id="1827042">Non hai Spaccaroccia!</string>
+ <!-- Safari -->
+	<!-- Combat Menu -->
+	<string id="5109">Ball ({00})</string>
+	<string id="5100">Lotta</string>
+	<string id="5104">Borsa</string>
+	<string id="5106">Fuga</string>
+	<string id="5108">Ball</string>
+	<string id="5118">Pantano</string>
+	<string id="5110">Pietra</string>
+	<string id="5112">Esca</string>
+	<string id="5114">Shift</string>
+	<string id="5116">Resa</string>
+	<string id="5120">Riassunto</string>
+	<!-- Kanto Safari Zone -->
+	<string id="1670251">SAFARI ZONE!</string>
+	<string id="1670279">$500?</string>
+	<string id="1670407">{09}</string>
+	<string id="1670480">{09}</string>
+	<string id="1670528">{09}</string>
+	<string id="1670633">{09}</string>
+	<string id="1670658">Non hai abbastanza soldi!</string>
+	<string id="1670682">Esci in anticipo?</string>
+	<string id="1670728">{09}</string>
+	<string id="1670778">{09}</string>
+	<string id="1670789">{09}</string>
+	<string id="1834011">Tempo scaduto!</string>
+	<string id="1834067">Safari Ball finite.</string>
+	<!-- Hoenn Safari Zone -->
+	<string id="271208308">$500?</string>
+	<string id="271208475">{09}</string>
+	<string id="271208502">{09}</string>
+	<string id="271208530">{09}</string>
+	<string id="271208559">{09}</string>
+	<string id="271207462">Tempo scaduto!</string>
+	<string id="271207510">Safari Ball finite.</string>
+	<!-- trainer blocking door -->
+	<string id="271209131">{09}</string>
+	<string id="271208916">Esci in anticipo?</string>
+	<string id="271209032">{09}</string>
+	<string id="271208986">{09}</string>
+
+ <!-- GYM LEADERS -->
+	<!-- Kanto - Pewter City - Brock -->
+	<string id="1641684"> <!-- Challenge --></string>
+	<string id="1642063"> <!-- Victory --></string>
+	<string id="1642767">On Cooldown...</string>
+	<!-- Kanto - Cerulean City - Misty -->
+	<string id="1647087"> <!-- Challenge --></string>
+	<string id="1647661"> <!-- Victory --></string>
+	<string id="1647295">On Cooldown...</string>
+	<!-- Kanto - Vermilion City - Lt. Surge -->
+	<string id="1657764"> <!-- Challenge --></string>
+	<string id="1658371"> <!-- Victory --></string>
+	<string id="1657998">On Cooldown...</string>
+	<!-- Kanto - Celadon City - Erika -->
+	<string id="1667348"> <!-- Challenge --></string>
+	<string id="1667680"> <!-- Victory --></string>
+	<string id="1667768">On Cooldown...</string>
+	<!-- Kanto - Saffron City - Sabrina -->
+	<string id="1684796"> <!-- Challenge --></string>
+	<string id="1684994"> <!-- Victory --></string>
+	<string id="1685490">On Cooldown...</string>
+	<!-- Kanto - Fuchsia City - Koga -->
+	<string id="1671982"> <!-- Challenge --></string>
+	<string id="1672260"> <!-- Victory --></string>
+	<string id="1672321">On Cooldown...</string>
+	<!-- Kanto - Cinnabar City - Blaine -->
+	<string id="1676611"> <!-- Challenge --></string>
+	<string id="1676794"> <!-- Victory --></string>
+	<string id="1677085">On Cooldown...</string>
+	<!-- Kanto - Viridian City - Giovanni -->
+	<!-- TODO: Missing last time i was there.. -->
+
+	<!-- Hoenn - Rustboro City - Roxanne -->
+	<string id="270613551"> <!-- Challenge --></string>
+	<string id="270613753"> <!-- Victory --></string>
+	<string id="270612903">On Cooldown...</string>
+	<string id="270613907">Hai solo un {STRING_0}</string>
+	<!-- Hoenn - Dewford City - Brawly -->
+	<string id="270521028"> <!-- Challenge --></string>
+	<string id="270521191"> <!-- Victory --></string>
+	<string id="270520845">On Cooldown...</string>
+	<string id="270521310">Hai solo un {STRING_0}</string>
+	<!-- Hoenn - Mauville City - Wattson -->
+	<string id="270592423"> <!-- Challenge --></string>
+	<string id="270592578"> <!-- Victory --></string>
+	<string id="270592293">On Cooldown...</string>
+	<string id="270592765">Hai solo un {STRING_0}</string>
+	<!-- Hoenn - Lavaridge City - Flannery -->
+	<string id="270530049"> <!-- Challenge --></string>
+	<string id="270530207"> <!-- Victory --></string>
+	<string id="270529862">On Cooldown...</string>
+	<string id="270530398">Hai solo un {STRING_0}</string>
+	<!-- Hoenn - Petalburg City - Norman -->
+	<string id="270562466"> <!-- Challenge --></string>
+	<string id="270562766"> <!-- Victory --></string>
+	<string id="270562807">On Cooldown...</string>
+	<string id="270562890">Hai solo un {STRING_0}</string>
+	<!-- Petalburg Puzzle Doors -->
+	<string id="270561822">{09}<!-- SPEED ROOM --></string>
+	<string id="270561920">{09}<!-- ACCURACY ROOM --></string>
+	<string id="270561979">{09}<!-- CONFUSION ROOM --></string>
+	<string id="270562039">{09}<!-- DEFENSE ROOM --></string>
+	<string id="270562097">{09}<!-- RECOVERY ROOM --></string>
+	<string id="270562156">{09}<!-- STRENGTH ROOM --></string>
+	<string id="270562215">{09}<!-- ONE-HIT KO ROOM --></string>
+	<string id="270562276">{09}<!-- GYM LEADER'S ROOM --></string>
+	<!-- Hoenn - Fortree City - Winona -->
+	<string id="270627072"> <!-- Challenge --></string>
+	<string id="270627302"> <!-- Victory --></string>
+	<string id="270626929">On Cooldown...</string>
+	<string id="270627474">Hai solo un {STRING_0}</string>
+	<!-- Hoenn - Mossdeep City - Tate & Liza -->
+	<string id="270671115"> <!-- Challenge --></string>
+	<string id="270671365"> <!-- Victory --></string>
+	<string id="270670621">On Cooldown...</string>
+	<string id="270671544">Hai solo un {STRING_0}</string>
+	<!-- Hoenn - Sootopolis City - Juan -->
+	<string id="270686544"> <!-- Challenge --></string>
+	<string id="270686766"> <!-- Victory --></string>
+	<string id="270686072">On Cooldown...</string>
+	<string id="270687048">Hai solo un {STRING_0}</string>
+
+ <!-- ELITE FOUR -->
+	<!-- Kanto - Elite 4 - Warden -->
+	<string id="1681624">Buona fortuna!</string>
+	<!-- All Wardens -->
+	<string id="16777231">Cooldown: \n{00}.</string>
+	<!-- Kanto - Elite 4 - Lorelei -->
+	<string id="1540233"> <!-- Challenge --></string>
+	<string id="1540497"> <!-- Victory --></string>
+	<string id="1540528">On cooldown...</string>
+	<!-- Kanto - Elite 4 - Bruno -->
+	<string id="1540623"> <!-- Challenge --></string>
+	<string id="1541129"> <!-- Victory --></string>
+	<string id="1541152">On cooldown...</string>
+	<!-- Kanto - Elite 4 - Agatha -->
+	<string id="1541197"> <!-- Challenge --></string>
+	<string id="1541847"> <!-- Victory --></string>
+	<string id="1541888">On cooldown...</string>
+	<!-- Kanto - Elite 4 - Lance -->
+	<string id="1542333"> <!-- Challenge --></string>
+	<string id="1542677"> <!-- Victory --></string>
+	<string id="1542738">On cooldown...</string>
+	<!-- Kanto - Elite 4 - Rival -->
+	<string id="1543380"> <!-- lol im literally god --></string>
+	<string id="1543743"> <!-- no one makes me bleed my own blood. --></string>
+	<string id="1543983"> <!-- I'm a big cry baby wah. --></string>
+	<!-- Kanto - Elite 4 - Oak -->
+	<string id="1544134"> <!-- Greeting --></string>
+	<string id="1544143"> <!-- You Won! --></string>
+	<string id="1544335"> <!-- Ur trash Gary --></string>
+	<string id="1544611"> <!-- I LOVE POKEMON --></string>
+	<string id="1544751"> <!-- Hall of famer! --></string>
+
+	<!-- Hoenn - Elite 4 - Warden -->
+	<string id="270702312"> <!-- Badge Check --></string>
+	<string id="270702575">Buona fortuna!<!-- Believe in yourself --></string>
+	<!-- Hoenn - Elite 4 - Sidney -->
+	<string id="270696359"> <!-- Challenge --></string>
+	<string id="270696610"> <!-- Victory --></string>
+	<string id="270696684">On Cooldown...</string>
+	<!-- Hoenn - Elite 4 - Phoebe -->
+	<string id="270696974"> <!-- Challenge --></string>
+	<string id="270697253"> <!-- Victory --></string>
+	<string id="270697283">On Cooldown..</string>
+	<!-- Hoenn - Elite 4 - Glacia -->
+	<string id="270697644"> <!-- Challenge --></string>
+	<string id="270697908"> <!-- Victory --></string>
+	<string id="270698048">On Cooldown..</string>
+	<!-- Hoenn - Elite 4 - Drake -->
+	<string id="270698302"> <!-- Challenge --></string>
+	<string id="270698645"> <!-- Victory --></string>
+	<string id="270698672">On Cooldown..</string>
+	<!-- Hoenn - Elite 4 - Wallace -->
+	<string id="270699596"> <!-- Challenge --></string>
+	<string id="270700204"> <!-- Victory --></string>
+	<!-- Hoenn - Elite 4 - Wallace/May/Brendan/Birch -->
+	<string id="270700390"> <!-- Wallace in Awe --></string>
+	<string id="270700746"> <!-- May gretting --></string>
+	<string id="270700811"> <!-- May shocked you won --></string>
+	<string id="270700882"> <!-- Brendan gretting --></string>
+	<string id="270700962"> <!-- Brendan shocked you won --></string>
+	<string id="270701030"> <!-- Birch mad proud --></string>
+	<string id="270701389"> <!-- Bich proud cont. --></string>
+	<string id="270701465"> <!-- Wallace showing respect --></string>
+	<string id="270701547"> <!-- Wallace telling the rival to get bent --></string>
+	<string id="270701689"> <!-- May Pouting --></string>
+	<string id="270701813"> <!-- Brendan Pouting --></string>
+	<string id="271211820">Regionale: Visti {02} | Catturati {03}</string>
+	<string id="271213373">Nazionale: Visti {02} | Catturati {03}</string>
+	<string id="270702862"> <!-- This Room --></string>
+	<string id="270703011"> <!-- Record Pokemon --></string>
+
+ <!-- "better" halloween strings ; thanks nurver -->
+	<string id="101608">Restores 25% HP when eaten.\nWhen fighting Pumpking, clears\nstat modifications from allied field.</string>
+	<string id="101609">Restores 25% HP when eaten.\nWhen fighting Pumpking, grants the ability {STRING_210064}\nand causes attacks to drain their target. Lasts 5 turns.</string>
+	<string id="101610">Restores 25% HP when eaten.\nWhen fighting Pumpking, heals the\nallied field by 33%.</string>
+	<string id="101611">Restores 25% HP when eaten.\nWhen fighting Pumpking, heals the\nallied field of status ailments.</string>
+	<string id="101612">Restores 25% HP when eaten.\nWhen fighting Pumpking, doubles\nallied field's speed. Lasts 4 turns.</string>
+
+ <!-- VESTIARIO -->
+	<string id="21029"> ◘Elmo</string>
+	<string id="21030"> ◘Cappello Kyu</string>
+	<string id="21064"> ◘Cappello da Festa</string>
+	<string id="21072"> ◘Maschera da Teschio con Fiamme Blu</string>
+	<string id="21080"> ◘Maschera da Teschio con Fiamme Arancioni</string>
+	<string id="21087"> ◘Maschera di Jack-O-Lantern</string>
+	<string id="21108"> ◘Sombrero Ninfea</string>
+	<string id="21116"> ◘Cappello Mietitore nero</string>
+	<string id="21117"> ◘Cappuccio da Pinguino</string>
+	<string id="21120"> ◘Corna di Rudolph</string>
+	<string id="21197"> ◘Maschera Bianca da Dottore della Peste</string>
+	<string id="21198"> ◘Cappuccio Rosso da Mietitore</string>
+	<string id="21210"> ◘Cappuccio della Fenice</string>
+	<string id="21212"> ◘Cappuccio Cinghiale</string>
+	<string id="21243"> ◘Maschera Nera Dottore Peste</string>
+	<string id="21255"> ◘Berretto UFO</string>
+	<string id="21274"> ◘Maschera Occhio Rosso</string>
+	<string id="21277"> ◘Maschera Occhio Verde</string>    
+	<string id="21286"> ◘Cappello Globo di neve</string>
+	<string id="21290"> ◘Maschera Drago Dorato</string>
+	<string id="21307"> ◘Maschera da lupo mannaro grigio</string>
+	<string id="21311"> ◘Maschera da lupo mannaro marrone</string>
+	<string id="21320"> ◘Maschera Tigre Dorato</string>
+	<string id="21331"> ◘Cappello Fiore Velenoso</string>
+	<string id="21356"> ◘Criniera della bestia aurora</string>
+	<string id="21359"> ◘Gatto Scherzetto</string>italiano
+	<string id="21361"> ◘Gatto Zucca</string>
+
+	<string id="22042"> ◘TEMPESTA DI FULMINI</string>
+
+	<string id="25009"> ◘Ali di farfalla eleganti</string>
+	<string id="25033"> ◘Luci Natalizie</string>
+	<string id="25035"> ◘Coda di Fenice</string>
+	<string id="25066"> ◘Guscio di Tartaruga Gigante</string>
+	<string id="25068"> ◘Ali Blu Brillanti</string>
+	<string id="25073"> ◘Ali Viola Brillanti</string>
+	<string id="25078"> ◘Mantello dell'Unità Verde</string>
+	<string id="25079"> ◘Mantello dell'Unità Rosso</string>
+	<string id="25084"> ◘Ali della Bestia Vulcanica</string>
+
+	<string id="26000"> ◘Camice da Laboratorio di Desu (Colore)</string>
+	<string id="26011"> ◘Giacca da laboratorio di Desu</string>
+	<string id="26065"> ◘Costume Pinguino</string>
+	<string id="26111"> ◘Veste della Fenice</string>
+	<string id="26114"> ◘Costume Cinghiale</string>
+	<string id="26159"> ◘Vestito da Drago di Fuoco</string>
+	<string id="26166"> ◘Vestito Blu Leggendario</string>
+	<string id="26167"> ◘Vestito Viola Leggendario</string>
+	<string id="26168"> ◘Vestaglia da Bestia Tuonante</string>
+
+	<string id="31028"> ◘Drago rosso fortunato</string>
+	<string id="31030"> ◘Drago d'oro fortunato</string>
+ <!-- OGGETTI -->
+  <!-- Misc -->
+	<string id="245220"> {STRING_245220} (ATK)</string>
+	<string id="245287"> {STRING_245287} (VEL)</string>
+	<string id="245297"> {STRING_245297} (ATK.SPE)</string>
+	<string id="245541"> {STRING_245541}</string>
+
+	<string id="245289">{STRING_248289} (ATK)</string>
+	<string id="245290">{STRING_248290} (DEF)</string>
+	<string id="245291">{STRING_248291} (ATK.SPE)</string>
+	<string id="245292">{STRING_248292} (DEF.SPE)</string>
+	<string id="245293">{STRING_248293} (VEL)</string>
+	<string id="245294">{STRING_248294} (PS)</string>
+
+	<string id="245485">{STRING_249485} (Level)</string>
+	<string id="245486">{STRING_249486} (Esca)</string>
+	<string id="245487">{STRING_249487} (Luna)</string>
+	<string id="245488">{STRING_249488} (Friend)</string>
+	<string id="245489">{STRING_249489} (Love)</string>
+	<string id="245490">{STRING_249490} (Rapid)</string>
+	<string id="245491">{STRING_249491} (Peso)</string>
+
+  <!-- Pokemart -->
+	<string id="245038">{STRING_248038} (PP)</string>
+	<string id="245039">{STRING_248039} (PP)</string>
+	<string id="245040">{STRING_248040} (PP)</string>
+	<string id="245041">{STRING_248041} (PP)</string>
+
+	<string id="241250">SuperPS-Su (PS)</string>
+	<string id="241251">IperPS-Su (PS)</string>
+	<string id="241252">PS-Su Max (PS)</string>
+	<string id="241253">SuperProteina (ATK)</string>
+	<string id="241254">IperProteina (ATK)</string>
+	<string id="241255">Proteina Max (ATK)</string>
+	<string id="241256">SuperFerro (DEF)</string>
+	<string id="241257">IperFerro (DEF)</string>
+	<string id="241258">Ferro Max (DEF)</string>
+	<string id="241259">SuperCarburante (VEL)</string>
+	<string id="241260">IperCarburante (VEL)</string>
+	<string id="241261">Carburante Max (VEL)</string>
+	<string id="241262">SuperCalcio (ATK.SPE)</string>
+	<string id="241263">IperCalcio (ATK.SPE)</string>
+	<string id="241264">Calcio Max (ATK.SPE)</string>
+	<string id="241265">SuperZinco (DEF.SPE)</string>
+	<string id="241266">IperZinco (DEF.SPE)</string>
+	<string id="241267">Zinco Max (DEF.SPE)</string>
+
+	<string id="245045">{STRING_248045} (PS)</string>
+	<string id="245046">{STRING_248046} (ATK)</string>
+	<string id="245047">{STRING_248047} (DEF)</string>
+	<string id="245048">{STRING_248048} (VEL)</string>
+	<string id="245049">{STRING_248049} (ATK.SPE)</string>
+	<string id="245051">{STRING_248051} (PP)</string>
+	<string id="245052">{STRING_248052} (DEF.SPE)</string>
+	<string id="245053">{STRING_248053} (PP)</string>
+
+	<string id="245565">Piumsalute (PS)</string>
+	<string id="245566">Piumpotenza (ATK)</string>
+	<string id="245567">Piumtutela (DEF)</string>
+	<string id="245568">Piumingegno (ATK.SPE)</string>
+	<string id="245569">Piumintuito (DEF.SPE)</string>
+	<string id="245570">Piumreazione (VEL)</string>
+
+  <!-- Bacche -->
+	<string id="245154">{STRING_248154} (PP)</string>
+	<string id="245169">{STRING_248169} (PS)</string>
+	<string id="245170">{STRING_248170} (ATK)</string>
+	<string id="245171">{STRING_248171} (DEF)</string>
+	<string id="245172">{STRING_248172} (ATK.SPE)</string>
+	<string id="245173">{STRING_248173} (DEF.SPE)</string>
+	<string id="245174">{STRING_248174} (VEL)</string>
+	<string id="245157">{STRING_248157} (STATUS)</string>
+	<string id="245158">{STRING_248158} (PS 25%)</string>
+	<string id="245162"> {STRING_248162}</string>
+ <!-- PULSANTI -->
+	<string id="50"> \n        Si        \n </string>
+	<string id="51"> \n        No        \n </string>
+	<string id="53"> \n        Annulla        \n </string>
+	<string id="60"> \n        Accetta        \n </string>
+	<string id="63"> \n        Rifiuta        \n </string>
+	<string id="1421">\nPrendi {00}\n</string>
+	<string id="5029">\nConferma\n</string>
+ <!-- Extra -->
+	<string id="1200">Impostazioni           IT(en) (FlaProGmr) 04-09-24 </string>
+	<string id="2350">{09}</string> <!-- PC -->
+	<string id="4010">Buono da 100 Punti Ricompensa (RP)</string>
+	<string id="4012">Buono da 500 Punti Ricompensa (RP)</string>
+	<string id="4014">Buono da 1,000 Punti Ricompensa (RP)</string>
+	<string id="5019">★{00} cromatico★</string> <!-- Shiny -->
+	<string id="6011">{00} terminato.</string> <!-- Repel/Lure -->
+	<string id="6012">Usare un altro {00}?</string> <!-- Repel/Lure -->
+	<string id="6067">{09}</string> <!-- Usato palla fumo -->
+	<string id="200498">Gas Reattivo: Abilità Soppresse</string> <!-- Abilità Weezing -->
+	<!--<string id="16780375">{09}</string>--> <!-- Annaffiatoio -->
+	<string id="16777274">{09}</string> <!-- {STRING_150250} è volato via -->
+	<string id="16777275">Andare in cima?</string> <!-- {STRING_150250} aspetta in cima, adnare? -->
+	<string id="16777276">Andare in fondo?</string> <!-- {STRING_150250} aspetta in fondo, andare? -->
+	<string id="16780135">Zona iniziale?</string> <!-- Zona inizio Johto Safari -->
+
+ <!-- Pickup Ability -->
+	<string id="6066">Raccolto {01}!</string>
+ <!-- Player Found Items -->
+	<string id="6063">Trovato {00}!</string>
+	<string id="6062">{00} raccoglie {01}!</string>
+
+ <!-- PvP short battle stats -->
+	<string id="5200">Turn #{00}</string>
+	<string id="5201">Time: {00}</string>
+
+ <!-- Charms allocation -->
+	<string id="101402">█{STRING_101120} (+100%)</string>
+	<string id="101405">█{STRING_101122} (+100%)</string>
+	<string id="101408">█{STRING_101124} (+100%)</string>
+	<string id="101409">█{STRING_101126} (+10%)</string>
+	<string id="101413">█{STRING_101128} (+100%)</string>
+	<string id="101414">█{STRING_101128} (+150%)</string>
+	<string id="101412">█{STRING_101128} (+75%)</string>
+	<string id="101415">Caramella EXP Minima (XS)</string>
+	<string id="101416">Caramella EXP Piccola (S)</string>
+	<string id="101417">Caramella EXP Media (M)</string>
+	<string id="101418">Caramella EXP Grande (L)</string>
+	<string id="101419">Caramella EXP Gigante (XL)</string>
+ <!-- Various battle skill messages -->
+	<string id="5028">{09}</string> <!-- Level cap, non può salire di livello  -->
+	<string id="200436">{09}</string> <!-- Feinting multiple Pokemon at once -->
+ <!-- Move Tutors -->
+	<string id="16779000">{09}<!-- Greeting --></string>
+	<string id="16779002">Tutor?</string>
+	<string id="16779004">Arrivederci.</string>
+	<string id="16779003">Quale?</string>
+	<string id="16779005">Ancora?</string>
+	<string id="16779052">{00}x {01} per {02}?</string>
+	<string id="16779053">Ritorna con {00}x {01}</string>
+	<string id="16779054">{00}x {01} e\n{02}x {03} per {04}?</string>
+ <!-- Mushroom Move Master -->
+	<string id="16778100">{09}<!-- Greeting --></string>
+	<string id="16778102">Mancano {00}</string>
+	<string id="16778103">Mancano {00}/{01}</string>
+
+ <!-- Move Re-Learner -->
+	<string id="16779020">{09}<!-- Greeting --></string>
+	<string id="16779022">Ricorda o Dimentica?</string>
+	<string id="16779023">OK.</string>
+	<string id="16779031">Quale?</string>
+	<string id="16779032">${00} per eliminare {01}\nda {02}?</string>
+	<string id="16779033">{00} dimentica {01}!</string>
+	<string id="16779034">Ancora?</string>
+	<string id="16779035">Chi?</string>
+ <!-- BP Tutor -->
+	<string id="16779040">{09}</string>   
+	<string id="16779041">Insegnare mossa TUTOR?</string>
+	<string id="16779046">{09}</string>
+   <!-- DELETER -->
+	<string id="16779057">Chi?</string>
+
+ <!-- BP Store -->
+	<string id="16779060">{09}</string>
+	<string id="16779061">{09}</string>
+	<string id="16779064">{09}</string>
+
+ <!-- BREEDING -->
+	<!-- Negozio strumenti IV -->
+	<string id="16779070">{09}</string>
+   <!-- Breeding -->
+	<string id="16779080">Accoppia?<!-- Breed --></string>
+	<string id="16779081">Non hai abbastanza {STRING_0}..<!-- only one pokemon --></string>
+	<string id="16779082">{09}<!-- Positive --></string>
+	<string id="16779083">{09}<!-- which pokemon --></string>
+	<string id="16779087">{09}<!-- egg? --></string>
+	<string id="16779091">♂/♀?</string>
+	<string id="16779092">♂/♀?</string>
+	<string id="16779093">+${00}?</string>
+	<string id="16777221">{09}<!-- pokeball --></string>
+  <!-- Kanto -->
+	<string id="1832746">{09}</string>
+	<string id="1832789">{09}</string>
+	<string id="1695196">{09}</string>
+  <!-- Hoenn -->
+	<string id="271131044">{09}</string>
+	<string id="271131087">{09}</string>
+	<string id="271131670">{09}</string>
+
+ <!-- REGION LINK FERRY -->
+	<string id="16780100">{09}</string>
+	<string id="16780103">{09}</string>
+	<string id="16780104">{09}</string>
+ <!-- REGION RETURN (mom) -->
+	<string id="16780130">Tornare in {00}?</string>
+ <!-- Honey Trees -->
+	<string id="16780140">[0] Mettere miele?</string>
+	<string id="16780141">[1] Mettere Miele?</string>
+	<string id="16780142">[2] Mettere Miele?</string>
+	<string id="16780143">[3] Mettere Miele?</string>
+	<string id="16780144">[4] Miele MAX</string>
+ <!-- MAILMAN -->
+	<string id="16780150">Inviare mail?</string>
+	<string id="16780151">{01}, hai una mail!</string>
+ <!-- SEED PLANTING -->
+	<string id="4">Bacche</string>
+	<string id="300014">Bacche</string>
+	<string id="310018">Bacche</string>
+
+	<string id="16780309">{09}</string>
+	<string id="16780310">{09}</string>
+	<string id="16780311">{09}</string>
+	<string id="16780312">semi</string>
+	<string id="16780313">alberello</string>
+
+	<string id="16780315">{09}</string>
+	<string id="16780316">{09}</string>
+	<string id="16780317">{09}</string>
+	<string id="16780318">{09}</string>
+
+	<string id="16780320">{09}</string>
+	<string id="16780321">{09}</string>
+	<string id="16780326">{09}<!-- Plant? --></string>
+	<string id="16780327">{09}<!-- Water? --></string>
+	<string id="16780328">{09}</string>
+
+	<string id="16780329">{01} {00}?</string>
+	<string id="16780330">{09}</string>
+	<string id="16780331">{09}</string>
+
+	<string id="16780335">{09}</string>
+	<string id="16780336">{09}</string>
+	<string id="16780337">{09}</string>
+	<string id="16780338">{09}</string>
+	<string id="16780339">{09}</string>
+	<string id="16780340">{09}</string>
+ <!-- EVENTS -->
+  <!--  Halloween   -->
+   <!-- Mini boss-->
+   <!--
+    <string id="16800210">{09}</string>
+    <string id="16800211">{09}</string>
+	-->
+   <!-- Flamas spirit-->
+   <!--
+    <string id="16800212">{00} spiriti rimanenti</string>
+    <string id="16800213">{09}</string>
+	-->
+   <!-- Niños-->
+   <!--
+    <string id="16800024">{09}</string>
+    <string id="16800025">{09}</string>
+    <string id="16800026">{09}</string>
+    <string id="16800027">{09}</string>
+    <string id="16800028">{09}</string>
+    <string id="16800029">{09}</string>
+	-->
+   <!-- Boss-->
+   <!--
+    <string id="16800030">{09}</string>
+    <string id="16800031">{09}</string>
+    <string id="16800032">{09}</string>
+    <string id="16777232">{01}x{02}</string>
+    <string id="16800033">{09}</string>
+    <string id="16800034">{09}</string>
+    <string id="16800035">{09}</string>
+    <string id="16800037">{09}</string>
+    <string id="16800038">{09}</string>
+    <string id="16800040">{09}</string>
+    <string id="16800041">{09}</string>
+    <string id="16800042">{09}</string>
+    <string id="16800043">{09}</string>
+    <string id="16800044">{09}</string>
+    <string id="16800045">{09}</string>
+    <string id="16800049">{09}</string>
+    <string id="16800050">{09}</string>
+    <string id="16800052">{09}</string>
+	-->
+  <!--  Xmas   -->
+  <!--
+    <string id="16802032">{09}</string>
+    <string id="16802033">{09}</string>
+
+    <string id="16802037">{09}</string>
+    <string id="16802038">{09}</string>
+
+    <string id="16802040">{09}</string>
+    <string id="16802041">{09}</string>
+	-->
+  <!--  Chinese New year   -->
+   <!--  Poli  -->
+   <!--
+   <string id="16805012">{09}</string>
+   -->
+   <!--  Abuela  -->
+   <!--
+   <string id="16805080">{09}</string>
+   <string id="16805081">{09}</string>
+   <string id="16805082">{09}</string>
+   <string id="16805083">{09}</string>
+   <string id="16805084">{09}</string>
+   <string id="16805085">{09}</string>
+
+   <string id="16805087">{09}</string>
+   <string id="16805088">{09}</string>
+
+   <string id="16805091">{09}</string>
+   <string id="16805092">{09}</string>
+   -->
+   <!--  Chinita  -->
+   <!--
+   <string id="16805020">{09}</string>
+   <string id="16805021">{09}</string>
+   -->
+
+<!-- MULTILINGUA -->
+	<!-- Dati pokemon -->
+		<!-- Nature -->
+		
+			<string id="180000">Ardita(Hardy)\n[-]</string>
+			<string id="180001">Schiva(Lonely)\n[+Atk|-Def]</string>
+			<string id="180002">Audace(Brave)\n[+Atk|-Vel]</string>
+			<string id="180003">Decisa(Adamant)\n[+Atk|-Atk.Spe]</string>
+			<string id="180004">Birbona(Naughty)\n[+Atk|-Def.Spe]</string>
+
+			<string id="180005">Sicura(Bold)\n[+Def|-Atk]</string>
+			<string id="180006">Docile(Docile)\n[-]</string>
+			<string id="180007">Placida(Relaxed)\n[+Def|-Vel]</string>
+			<string id="180008">Scaltra(Impish)\n[+Def|-Atk.Spe]</string>
+			<string id="180009">Fiacca(Lax)\n[+Def|-Def.Spe]</string>
+
+			<string id="180010">Timida(Timid)\n[+Vel|-Atk]</string>
+			<string id="180011">Lesta(Hasty)\n[+Vel|-Def]</string>
+			<string id="180012">Seria(Serious)\n[-]</string>
+			<string id="180013">Allegra(Jolly)\n[+Vel|-Atk.Spe]</string>
+			<string id="180014">Ingenua(Naive)\n[+Vel|-Def.Spe]</string>
+
+			<string id="180015">Modesta(Modest)\n[+Atk.Spe|-Atk]</string>
+			<string id="180016">Mite(Mild)\n[+Atk.Spe|-Def]</string>
+			<string id="180017">Quieta(Quiet)\n[+Atk.Spe|-Vel]</string>
+			<string id="180018">Ritrosa(Bashful)\n[-]</string>
+			<string id="180019">Ardente(Rash)\n[+Atk.Spe|-Def.Spe]</string>
+
+			<string id="180020">Calma(Calm)\n[+Def.Spe|-Atk]</string>
+			<string id="180021">Gentile(Gentle)\n[+Def.Spe|-Def]</string>
+			<string id="180022">Vivace(Sassy)\n[+Def.Spe|-Vel]</string>
+			<string id="180023">Cauta(Careful)\n[+Def.Spe|-Atk.Spe]</string>
+			<string id="180024">Furba(Quirky)\n[-]</string>
+			<!--
+			<string id="180000">Ardita(Hardy)\n[-]</string>
+			<string id="180001">Schiva(Lonely)\n[+Atk]</string>
+			<string id="180002">Audace(Brave)\n[+Atk]</string>
+			<string id="180003">Decisa(Adamant)\n[+Atk]</string>
+			<string id="180004">Birbona(Naughty)\n[+Atk]</string>
+
+			<string id="180005">Sicura(Bold)\n[+Def]</string>
+			<string id="180006">Docile(Docile)\n[-]</string>
+			<string id="180007">Placida(Relaxed)\n[+Def]</string>
+			<string id="180008">Scaltra(Impish)\n[+Def]</string>
+			<string id="180009">Fiacca(Lax)\n[+Def]</string>
+
+			<string id="180010">Timida(Timid)\n[+Vel]</string>
+			<string id="180011">Lesta(Hasty)\n[+Vel]</string>
+			<string id="180012">Seria(Serious)\n[-]</string>
+			<string id="180013">Allegra(Jolly)\n[+Vel]</string>
+			<string id="180014">Ingenua(Naive)\n[+Vel]</string>
+
+			<string id="180015">Modesta(Modest)\n[+Atk.Spe]</string>
+			<string id="180016">Mite(Mild)\n[+Atk.Spe]</string>
+			<string id="180017">Quieta(Quiet)\n[+Atk.Spe]</string>
+			<string id="180018">Ritrosa(Bashful)\n[-]</string>
+			<string id="180019">Ardente(Rash)\n[+Atk.Spe]</string>
+
+			<string id="180020">Calma(Calm)\n[+Def.Spe]</string>
+			<string id="180021">Gentile(Gentle)\n[+Def.Spe]</string>
+			<string id="180022">Vivace(Sassy)\n[+Def.Spe]</string>
+			<string id="180023">Cauta(Careful)\n[+Def.Spe]</string>
+			<string id="180024">Furba(Quirky)\n[-]</string>
+			-->
+		<!-- Abilità -->
+			<string id="210001">Tanfo\nStench</string>
+			<string id="210002">Piovischio\nDrizzle</string>
+			<string id="210003">Acceleratore\nSpeed Boost</string>
+			<string id="210004">Lottascudo\nBattle Armor</string>
+			<string id="210005">Vigore\nSturdy</string>
+			<string id="210006">Umidità\nDamp</string>
+			<string id="210007">Scioltezza\nLimber</string>
+			<string id="210008">Sabbiavelo\nSand Veil</string>
+			<string id="210009">Statico\nStatic</string>
+			<string id="210010">Assorbivolt\nVolt Absorb</string>
+			<string id="210011">Assorbacqua\nWater Absorb</string>
+			<string id="210012">Indifferenza\nOblivious</string>
+			<string id="210013">Antimeteo\nCloud Nine</string>
+			<string id="210014">Insettocchi\nCompoundeyes</string>
+			<string id="210015">Insonnia\nInsomnia</string>
+			<string id="210016">Cambiacolore\nColor Change</string>
+			<string id="210017">Immunità\nImmunity</string>
+			<string id="210018">Fuocardore\nFlash Fire</string>
+			<string id="210019">Polvoscudo\nShield Dust</string>
+			<string id="210020">Mente Locale\nOwn Tempo</string>
+			<string id="210021">Ventose\nSuction Cups</string>
+			<string id="210022">Prepotenza\nIntimidate</string>
+			<string id="210023">Pedinombra\nShadow Tag</string>
+			<string id="210024">Cartavetro\nRough Skin</string>
+			<string id="210025">Magidifesa\nWonder Guard</string>
+			<string id="210026">Levitazione\nLevitate</string>
+			<string id="210027">Spargispora\nEffect Spore</string>
+			<string id="210028">Sincronismo\nSynchronize</string>
+			<string id="210029">Corpochiaro\nClear Body</string>
+			<string id="210030">Alternacura\nNatural Cure</string>
+			<string id="210031">Parafulmine\nLightningrod</string>
+			<string id="210032">Leggiadro\nSerene Grace</string>
+			<string id="210033">Nuotovelox\nSwift Swim</string>
+			<string id="210034">Clorofilla\nChlorophyll</string>
+			<string id="210035">Risplendi\nIlluminate</string>
+			<string id="210036">Traccia\nTrace</string>
+			<string id="210037">Macroforza\nHuge Power</string>
+			<string id="210038">Velenopunto\nPoison Point</string>
+			<string id="210039">Fuocodentro\nInner Focus</string>
+			<string id="210040">Magmascudo\nMagma Armor</string>
+			<string id="210041">Idrovelo\nWater Veil</string>
+			<string id="210042">Magnetismo\nMagnet Pull</string>
+			<string id="210043">Antisuono\nSoundproof</string>
+			<string id="210044">Copripioggia\nRain Dish</string>
+			<string id="210045">Sabbiafiume\nSand Stream</string>
+			<string id="210046">Pressione\nPressure</string>
+			<string id="210047">Grassospesso\nThick Fat</string>
+			<string id="210048">Sveglialampo\nEarly Bird</string>
+			<string id="210049">Corpodifuoco\nFlame Body</string>
+			<string id="210050">Fugafacile\nRun Away</string>
+			<string id="210051">Sguardofermo\nKeen Eye</string>
+			<string id="210052">Ipertaglio\nHyper Cutter</string>
+			<string id="210053">Raccolta\nPickup</string>
+			<string id="210054">Pigrone\nTruant</string>
+			<string id="210055">Tuttafretta\nHustle</string>
+			<string id="210056">Incantevole\nCute Charm</string>
+			<string id="210057">Più\nPlus</string>
+			<string id="210058">Meno\nMinus</string>
+			<string id="210059">Previsioni\nForecast</string>
+			<string id="210060">Antifurto\nSticky Hold</string>
+			<string id="210061">Muta\nShed Skin</string>
+			<string id="210062">Dentistretti\nGuts</string>
+			<string id="210063">Pelledura\nMarvel Scale</string>
+			<string id="210064">Melma\nLiquid Ooze</string>
+			<string id="210065">Erbaiuto\nOvergrow</string>
+			<string id="210066">Aiutofuoco\nBlaze</string>
+			<string id="210067">Acquaiuto\nTorrent</string>
+			<string id="210068">Aiutinsetto\nSwarm</string>
+			<string id="210069">Testadura\nRock Head</string>
+			<string id="210070">Siccità\nDrought</string>
+			<string id="210071">Trappoarena\nArena Trap</string>
+			<string id="210072">Spiritovivo\nVital Spirit</string>
+			<string id="210073">Fumochiaro\nWhite Smoke</string>
+			<string id="210074">Forzapura\nPure Power</string>
+			<string id="210075">Guscioscudo\nShell Armor</string>
+			<string id="210076">Riparo\nAir Lock</string>
+			<string id="210077">Intricopiedi\nTangled Feet</string>
+			<string id="210078">Elettrorapid\nMotor Drive</string>
+			<string id="210079">Antagonismo\nRivalry</string>
+			<string id="210080">Cuordeciso\nSteadfast</string>
+			<string id="210081">Mantelneve\nSnow Cloak</string>
+			<string id="210082">Voracità\nGluttony</string>
+			<string id="210083">Grancollera\nAnger Point</string>
+			<string id="210084">Agiltecnica\nUnburden</string>
+			<string id="210085">Antifuoco\nHeatproof</string>
+			<string id="210086">Disinvoltura\nSimple</string>
+			<string id="210087">Pellearsa\nDry Skin</string>
+			<string id="210088">Download\nDownload</string>
+			<string id="210089">Ferropugno\nIron Fist</string>
+			<string id="210090">Velencura\nPoison Heal</string>
+			<string id="210091">Adattabilità\nAdaptability</string>
+			<string id="210092">Abillegame\nSkill Link</string>
+			<string id="210093">Idratazione\nHydration</string>
+			<string id="210094">Solarpotere\nSolar Power</string>
+			<string id="210095">Piedisvelti\nQuick Feet</string>
+			<string id="210096">Normalità\nNormalize</string>
+			<string id="210097">Cecchino\nSniper</string>
+			<string id="210098">Magicscudo\nMagic Guard</string>
+			<string id="210099">Nullodifesa\nNo Guard</string>
+			<string id="210100">Rallentatore\nStall</string>
+			<string id="210101">Tecnico\nTechnician</string>
+			<string id="210102">Fogliamanto\nLeaf Guard</string>
+			<string id="210103">Impaccio\nKlutz</string>
+			<string id="210104">Rompiforma\nMold Breaker</string>
+			<string id="210105">Supersorte\nSuper Luck</string>
+			<string id="210106">Scoppio\nAftermath</string>
+			<string id="210107">Anticipación\nAnticipation</string>
+			<string id="210108">Presagio\nForewarn</string>
+			<string id="210109">Imprudenza\nUnaware</string>
+			<string id="210110">Lentifumé\nTinted Lens</string>
+			<string id="210111">Filtro\nFilter</string>
+			<string id="210112">Lentoinizio\nSlow Start</string>
+			<string id="210113">Nervisaldi\nScrappy</string>
+			<string id="210114">Acquascolo\nStorm Drain</string>
+			<string id="210115">Corpogelo\nIce Body</string>
+			<string id="210116">Solidroccia\nSolid Rock</string>
+			<string id="210117">Scendineve\nSnow Warning</string>
+			<string id="210118">Mielincetta\nHoney Gather</string>
+			<string id="210119">Indagine\nFrisk</string>
+			<string id="210120">Temerarietà\nReckless</string>
+			<string id="210121">Multitipo\nMultitype</string>
+			<string id="210122">Regalfiore\nFlower Gift</string>
+			<string id="210123">Sogniamari\nBad Dreams</string>
+			<string id="210124">Arraffalesto\nPickpocket</string>
+			<string id="210125">Forzabruta\nSheer Force</string>
+			<string id="210126">Inversione\nContrary</string>
+			<string id="210127">Nerviosismo\nUnnerve</string>
+			<string id="210128">Agitazione\nDefiant</string>
+			<string id="210129">Sconforto\nDefeatist</string>
+			<string id="210130">Corpofunesto\nCursed Body</string>
+			<string id="210131">Curacuore\nHealer</string>
+			<string id="210132">Amicoscudo\nFriend Guard</string>
+			<string id="210133">Sottilguscio\nWeak Armor</string>
+			<string id="210134">Metalpesante\nHeavy Metal</string>
+			<string id="210135">Metalleggero\nLight Metal</string>
+			<string id="210136">Multisquame\nMultiscale</string>
+			<string id="210137">Velenimpeto\nToxic Boost</string>
+			<string id="210138">Bruciaimpeto\nFlare Boost</string>
+			<string id="210139">Coglibacche\nHarvest</string>
+			<string id="210140">Telepatia\nTelepathy</string>
+			<string id="210141">Altalena\nMoody</string>
+			<string id="210142">Copricapo\nOvercoat</string>
+			<string id="210143">Velentocco\nPoison Touch</string>
+			<string id="210144">Rigenergia\nRegenerator</string>
+			<string id="210145">Pettinfuori\nBig Pecks</string>
+			<string id="210146">Remasabbia\nSand Rush</string>
+			<string id="210147">Splendicute\nWonder Skin</string>
+			<string id="210148">Ponderazione\nAnalytic</string>
+			<string id="210149">Illusione\nIllusion</string>
+			<string id="210150">Sosia\nImposter</string>
+			<string id="210151">Intrapasso\nInfiltrator</string>
+			<string id="210152">Mummia\nMummy</string>
+			<string id="210153">Arroganza\nMoxie</string>
+			<string id="210154">Giustizia\nJustified</string>
+			<string id="210155">Paura\nRattled</string>
+			<string id="210156">Magispecchio\nMagic Bounce</string>
+			<string id="210157">Mangiaerba\nSap Sipper</string>
+			<string id="210158">Burla\nPrankster</string>
+			<string id="210159">Silicoforza\nSand Force</string>
+			<string id="210160">Spineferrate\nIron Barbs</string>
+			<string id="210161">Stato Zen\nZen Mode</string>
+			<string id="210162">Vittorstella\nVictory Star</string>
+			<string id="210163">Piroturbina\nTurboblaze</string>
+			<string id="210164">Teravolt\nTeravolt</string>
+	<!-- Luoghi -->
+		<!-- Kanto -->
+			<string id="140000">Biancavilla (Pallet Town)</string>
+			<string id="140001">Smeraldopoli (Viridian City)</string>
+			<string id="140002">Plumbeopoli (Pewter City)</string>
+			<string id="140003">Celestopoli (Cerulean City)</string>
+			<string id="140004">Lavandonia (Lavender Town)</string>
+			<string id="140005">Aranciopoli (Vermilion City)</string>
+			<string id="140006">Azzurropoli (Celadon City)</string>
+			<string id="140007">Fucsiapoli (Fuchsia City)</string>
+			<string id="140008">Isola Cannella (Cinnabar Island)</string>
+			<string id="140009">Altopiano Blu (Indigo Plateau)</string>
+			<string id="140010">Zafferanopoli (Saffron City)</string>
+			<!-- Percorsi-->
+			<string id="140011">Percorso 4 (Route 4)</string>
+			<string id="140012">Percorso 10 (Route 10)</string>
+			<string id="140013">Percorso 1 (Route 1)</string>
+			<string id="140014">Percorso 2 (Route 2)</string>
+			<string id="140015">Percorso 3 (Route 3)</string>
+			<string id="140016">Percorso 4 (Route 4)</string>
+			<string id="140017">Percorso 5 (Route 5)</string>
+			<string id="140018">Percorso 6 (Route 6)</string>
+			<string id="140019">Percorso 7 (Route 7)</string>
+			<string id="140020">Percorso 8 (Route 8)</string>
+			<string id="140021">Percorso 9 (Route 9)</string>
+			<string id="140022">Percorso 10 (Route 10)</string>
+			<string id="140023">Percorso 11 (Route 11)</string>
+			<string id="140024">Percorso 12 (Route 12)</string>
+			<string id="140025">Percorso 13 (Route 13)</string>
+			<string id="140026">Percorso 14 (Route 14)</string>
+			<string id="140027">Percorso 15 (Route 15)</string>
+			<string id="140028">Percorso 16 (Route 16)</string>
+			<string id="140029">Percorso 17 (Route 17)</string>
+			<string id="140030">Percorso 18 (Route 18)</string>
+			<string id="140031">Percorso 19 (Route 19)</string>
+			<string id="140032">Percorso 20 (Route 20)</string>
+			<string id="140033">Percorso 21 (Route 21)</string>
+			<string id="140034">Percorso 22 (Route 22)</string>
+			<string id="140035">Percorso 23 (Route 23)</string>
+			<string id="140036">Percorso 24 (Route 24)</string>
+			<string id="140037">Percorso 25 (Route 25)</string>
+			<string id="140038">Bosco Smeraldo (Viridian Forest)</string>
+			<string id="140039">Monte Luna (Mt. Moon)</string>
+			<string id="140040">M/N Anna (S.s. Anne)</string>
+			<string id="140041">Via Sotterranea (Underground Path)</string>
+			<string id="140042">Via Sotterranea (Underground Path)</string>
+			<string id="140043">Grotta Diglett (Diglett's Cave)</string>
+			<string id="140044">Via Vittoria (Victory Road)</string>
+			<string id="140045">Rifugio Rocket (Rocket Hideout)</string>
+			<string id="140046">Silph Spa (Silph Co.)</string>
+			<string id="140047">Villa Pokémon (Pokémon Mansion)</string>
+			<string id="140048">Zona Safari (Safari Zone)</string>
+			<string id="140049">Lega Pokémon (Pokémon League)</string>
+			<string id="140050">Tunnel Roccioso (Rock Tunnel)</string>
+			<string id="140051">Isole Spumarine (Seafoam Islands)</string>
+			<string id="140052">Torre Pokémon (Pokémon Tower)</string>
+			<string id="140053">Grotta Celeste (Cerulean Cave)</string>
+			<string id="140054">Centrale Elett. (Power Plant)</string>
+			<string id="140055">Primisola (One Island)</string>
+			<string id="140056">Secondisola (Two Island)</string>
+			<string id="140057">Terzisola (Three Island)</string>
+			<string id="140058">Quartisola (Four Island)</string>
+			<string id="140059">Quintisola (Five Island)</string>
+			<string id="140060">Settimisola (Seven Island)</string>
+			<string id="140061">Sestisola (six Island)</string>
+			<string id="140062">Via Vulcanica (Kindle Road)</string>
+			<string id="140063">Riva del Tesoro (Treasure Beach)</string>
+			<string id="140064">Capo Estremo (Cape Brink)</string>
+			<string id="140065">Ponte Abbraccio (Bond Bridge)</string>
+			<string id="140066">Porto Terzisola (Three Isle Port)</string>
+			<string id="140067">Settipelago 6 (Sevii Isle 6)</string>
+			<string id="140068">Settipelago 7 (Sevii Isle 7)</string>
+			<string id="140069">Settipelago 8 (Sevii Isle 8)</string>
+			<string id="140070">Settipelago 9 (Sevii Isle 9)</string>
+			<string id="140071">Perla Dei Mari (Resort Gorgeous)</string>
+			<string id="140072">Labirinto Marino (Water Labyrinth)</string>
+			<string id="140073">Prato Quintisola (Five Isle Meadow)</string>
+			<string id="140074">Colonna Rocciosa (Memorial Pillar)</string>
+			<string id="140075">Isola Solitaria (Outcast Island)</string>
+			<string id="140076">Via Verde (Green Path)</string>
+			<string id="140077">Via Marina (Water Path)</string>
+			<string id="140078">Valle Antica (Ruin Valley)</string>
+			<string id="140079">Torre Allenatori (Trainer Tower)</string>
+			<string id="140080">Ingresso Canyon (Canyon Entrance)</string>
+			<string id="140081">Canyon seption (Sevault Canyon)</string>
+			<string id="140082">Rovine Florabeto (Tanoby Ruins)</string>
+			<string id="140083">Settipelago 22 (Sevii Isle 22)</string>
+			<string id="140084">Settipelago 23 (Sevii Isle 23)</string>
+			<string id="140085">Settipelago 24 (Sevii Isle 24)</string>
+			<string id="140086">Monte Cordone (Navel Rock)</string>
+			<string id="140087">Monte Brace (Mt. Ember)</string>
+			<string id="140088">Bosco Baccoso (Berry Forest)</string>
+			<string id="140089">Grotta Gelata (Icefall Cave)</string>
+			<string id="140090">Magazzino Rocket (Rocket Warehouse)</string>
+			<string id="140091">Torre Allenatori (Trainer Tower)</string>
+			<string id="140092">Cripta Dei Punti (Dotted Hole)</string>
+			<string id="140093">Grotta Sperduta (Lost Cave)</string>
+			<string id="140094">Bosco Disegnato (Pattern Bush)</string>
+			<string id="140095">Grotta Mutevole (Altering Cave)</string>
+			<string id="140096">Sale Florabeto (Tanoby Chambers)</string>
+			<string id="140097">Via Terzisola (Three Isle Path)</string>
+			<string id="140098">Chiave Florabeto (Tanoby Key)</string>
+			<string id="140099">Isola Materna (Birth Island)</string>
+			<string id="140100">Sala A-Loe (Monean Chamber)</string>
+			<string id="140101">Sala B-Etulla (Liptoo Chamber)</string>
+			<string id="140102">Sala C-Iclamino (Weepth Chamber)</string>
+			<string id="140103">Sala D-Afne (Dilford Chamber)</string>
+			<string id="140104">Sala E-Dera (Scufib Chamber)</string>
+			<string id="140105">Sala F-Elce (Rixy Chamber)</string>
+			<string id="140106">Sala G-Ardenia (Viapois Chamber)</string>
+			<string id="140107">Terme Laviche (Ember Spa)</string>
+			<string id="140108">Centro Azzurrop. (Celadon Dept.)</string>
+		<!-- Hoenn -->
+			<string id="141000">Albanova (Littleroot Town)</string>
+			<string id="141001">Solarosa (Oldale Town)</string>
+			<string id="141002">Bluruvia (Dewford Town)</string>
+			<string id="141003">Cuordilava (Lavaridge Town)</string>
+			<string id="141004">Brunifoglia (Fallarbor Town)</string>
+			<string id="141005">Mentania (Verdanturf Town)</string>
+			<string id="141006">Orocea (Pacifidlog Town)</string>
+			<string id="141007">Petalipoli (Petalburg City)</string>
+			<string id="141008">Porto Selcepoli (Slateport City)</string>
+			<string id="141009">Ciclamipoli (Mauville City)</string>
+			<string id="141010">Ferrugipoli (Rustboro City)</string>
+			<string id="141011">Forestopoli (Fortree City)</string>
+			<string id="141012">Porto Alghepoli (Lilycove City)</string>
+			<string id="141013">Verdeazzupoli (Mossdeep City)</string>
+			<string id="141014">Ceneride (Sootopolis City)</string>
+			<string id="141015">Iridopoli (Ever Grande City)</string>
+			<!-- Percorsi -->
+			<string id="141016">Percorso 101 (Route 101)</string>
+			<string id="141017">Percorso 102 (Route 102)</string>
+			<string id="141018">Percorso 103 (Route 103)</string>
+			<string id="141019">Percorso 104 (Route 104)</string>
+			<string id="141020">Percorso 105 (Route 105)</string>
+			<string id="141021">Percorso 106 (Route 106)</string>
+			<string id="141022">Percorso 107 (Route 107)</string>
+			<string id="141023">Percorso 108 (Route 108)</string>
+			<string id="141024">Percorso 109 (Route 109)</string>
+			<string id="141025">Percorso 110 (Route 110)</string>
+			<string id="141026">Percorso 111 (Route 111)</string>
+			<string id="141027">Percorso 112 (Route 112)</string>
+			<string id="141028">Percorso 113 (Route 113)</string>
+			<string id="141029">Percorso 114 (Route 114)</string>
+			<string id="141030">Percorso 115 (Route 115)</string>
+			<string id="141031">Percorso 116 (Route 116)</string>
+			<string id="141032">Percorso 117 (Route 117)</string>
+			<string id="141033">Percorso 118 (Route 118)</string>
+			<string id="141034">Percorso 119 (Route 119)</string>
+			<string id="141035">Percorso 120 (Route 120)</string>
+			<string id="141036">Percorso 121 (Route 121)</string>
+			<string id="141037">Percorso 122 (Route 122)</string>
+			<string id="141038">Percorso 123 (Route 123)</string>
+			<string id="141039">Percorso 124 (Route 124)</string>
+			<string id="141040">Percorso 125 (Route 125)</string>
+			<string id="141041">Percorso 126 (Route 126)</string>
+			<string id="141042">Percorso 127 (Route 127)</string>
+			<string id="141043">Percorso 128 (Route 128)</string>
+			<string id="141044">Percorso 129 (Route 129)</string>
+			<string id="141045">Percorso 130 (Route 130)</string>
+			<string id="141046">Percorso 131 (Route 131)</string>
+			<string id="141047">Percorso 132 (Route 132)</string>
+			<string id="141048">Percorso 133 (Route 133)</string>
+			<string id="141049">Percorso 134 (Route 134)</string>
+			<string id="141050">Sott'Acqua (Underwater)</string>
+			<string id="141051">Sott'Acqua (Underwater)</string>
+			<string id="141052">Sott'Acqua (Underwater)</string>
+			<string id="141053">Sott'Acqua (Underwater)</string>
+			<string id="141054">Sott'Acqua (Underwater)</string>
+			<string id="141055">Grotta Pietrosa (Granite Cave)</string>
+			<string id="141056">Monte Camino (Mt. Chimney)</string>
+			<string id="141057">Zona Safari (Safari Zone)</string>
+			<string id="141058">Parco Lotta (Battle Frontier)</string>
+			<string id="141059">Bosco Petalo (Petalburg Woods)</string>
+			<string id="141060">Tunnel Menferro (Rusturf Tunnel)</string>
+			<string id="141061">Vecchia Nave (Abandoned Ship)</string>
+			<string id="141062">Ciclanova (New Mauville)</string>
+			<string id="141063">Cascate Meteora (Meteor Falls)</string>
+			<string id="141064">Cascate Meteora (Meteor Falls)</string>
+			<string id="141065">Monte Pira (Mt. Pyre)</string>
+			<string id="141066">Rifugio {08} ({08} Hideout)</string>
+			<string id="141067">Grotta Ondosa (Shoal Cave)</string>
+			<string id="141068">Antro Abissale (Seafloor Cavern)</string>
+			<string id="141069">Sott'Acqua (Underwater)</string>
+			<string id="141070">Via Vittoria (Victory Road)</string>
+			<string id="141071">Isola Miraggio (Mirage Island)</string>
+			<string id="141072">Grotta Dei Tempi (Cave Of Origin)</string>
+			<string id="141073">Isola Remota (Southern Island)</string>
+			<string id="141074">Cammino Ardente (Fiery Path)</string>
+			<string id="141075">Cammino Ardente (Fiery Path)</string>
+			<string id="141076">Passo Selvaggio (Jagged Pass)</string>
+			<string id="141077">Passo Selvaggio (Jagged Pass)</string>
+			<string id="141078">Sala Incisa (Sealed Chamber)</string>
+			<string id="141079">Sott'Acqua (Underwater)</string>
+			<string id="141080">Grottino Solare (Scorched Slab)</string>
+			<string id="141081">Grotta Insulare (Island Cave)</string>
+			<string id="141082">Rovine Sabbiose (Desert Ruins)</string>
+			<string id="141083">Tomba Antica (Ancient Tomb)</string>
+			<string id="141084">Nel Camion (Inside Of Truck)</string>
+			<string id="141085">Torre Dei Cieli (Sky Pillar)</string>
+			<string id="141086">Base Segreta (Secret Base)</string>
+			
+			<string id="141097">Altopiano BLU (Indigo Plateau)</string>
+			
+			<string id="141129">Via Sotterranea (Underground Path)</string>
+			<string id="141130">Via Sotterranea (Underground Path)</string>
+
+			<string id="141136">Zona Safari (Safari Zone)</string>
+			<string id="141137">Lega Pokémon (Pokémon League)</string>
+			<string id="141138">Tunnel Roccioso (Rock Tunnel)</string>
+			
+			<string id="141167">Torre Allenatori (Trainer Tower)</string>
+			<string id="141179">Torre Allenatori (Trainer Tower)</string>
+			<string id="141180">Cripta Dei Punti (Dotted Hole)</string>
+			<string id="141181">Grotta Sperduta (Lost Cave)</string>
+			<string id="141196">Zona Speciale (Special Area)</string>
+			<string id="141197">Rifugio Idro (Aqua Hideout)</string>
+			<string id="141198">Rifugio Magma (Magma Hideout)</string>
+			<string id="141199">Torre Miraggio (Mirage Tower)</string>
+			<string id="141200">Isola Materna (Birth Island)</string>
+			<string id="141201">Isola Suprema (Faraway Island)</string>
+			<string id="141202">Grotta Artistica (Artisan Cave)</string>
+			<string id="141203">Grotta Mare (Marine Cave)</string>
+			<string id="141204">Sott'Acqua (Underwater)</string>
+			<string id="141205">Grotta Terra (Terra Cave)</string>
+			<string id="141206">Sott'Acqua (Underwater)</string>
+			<string id="141207">Sott'Acqua (Underwater)</string>
+			<string id="141208">Sott'Acqua (Underwater)</string>
+			<string id="141209">Galleria Deserto (Desert Underpass)</string>
+			<string id="141210">Grotta Mutevole (Altering Cave)</string>
+			<string id="141211">Monte Cordone (Navel Rock)</string>
+			<string id="141212">Monte Allenatori (Trainer Hill)</string>
+		<!-- Unova-->
+			<string id="142001">Zona Misteriosa (Mystery Zone)</string>
+			<string id="142002">Luogo Remoto (Faraway Place)</string>
+			<string id="142004">Soffiolieve (Nuvema Town)</string>
+			<string id="142005">Quattroventi (Accumula Town)</string>
+			<string id="142006">Levantopoli (Striaton City)</string>
+			<string id="142007">Zefiropoli (Nacrene City)</string>
+			<string id="142008">Austropoli (Castelia City)</string>
+			<string id="142009">Sciroccopoli (Nimbasa City)</string>
+			<string id="142010">Libecciopoli (Driftveil City)</string>
+			<string id="142011">Ponentopoli (Mistralton City)</string>
+			<string id="142012">Mistralopoli (Icirrus City)</string>
+			<string id="142013">Boreduopoli (Opelucid City)</string>
+			<!-- Percorsi -->
+			<string id="142014">Percorso 1 (Route 1)</string>
+			<string id="142015">Percorso 2 (Route 2)</string>
+			<string id="142016">Percorso 3 (Route 3)</string>
+			<string id="142017">Percorso 4 (Route 4)</string>
+			<string id="142018">Percorso 5 (Route 5)</string>
+			<string id="142019">Percorso 6 (Route 6)</string>
+			<string id="142020">Percorso 7 (Route 7)</string>
+			<string id="142021">Percorso 8 (Route 8)</string>
+			<string id="142022">Percorso 9 (Route 9)</string>
+			<string id="142023">Percorso 10 (Route 10)</string>
+			<string id="142024">Percorso 11 (Route 11)</string>
+			<string id="142025">Percorso 12 (Route 12)</string>
+			<string id="142026">Percorso 13 (Route 13)</string>
+			<string id="142027">Percorso 14 (Route 14)</string>
+			<string id="142028">Percorso 15 (Route 15)</string>
+			<string id="142029">Percorso 16 (Route 16)</string>
+			<string id="142030">Percorso 17 (Route 17)</string>
+			<string id="142031">Percorso 18 (Route 18)</string>
+			<string id="142032">Cantiere dei Sogni (Dreamyard)</string>
+			<string id="142033">Bosco Girandola (Pinwheel Forest)</string>
+			<string id="142034">Deserto della Quiete (Desert Resort)</string>
+			<string id="142035">Castello Sepolto (Relic Castle)</string>
+			<string id="142036">Deposito Frigo (Cold Storage)</string>
+			<string id="142037">Cava Pietrelettrica (Chargestone Cave)</string>
+			<string id="142038">Monte Vite (Twist Mountain)</string>
+			<string id="142039">Torre Dragospira (Dragonspiral Tower)</string>
+			<string id="142040">Via Vittoria (Victory Road)</string>
+			<string id="142041">Fortebrezza (Lacunosa Town)</string>
+			<string id="142042">Spiraria (Undella Town)</string>
+			<string id="142043">Roteolia (Anville Town)</string>
+			<string id="142044">Lega Pokémon (Pokémon League)</string>
+			<string id="142045">Palazzo di N (N's Castle)</string>
+			<string id="142046">Nave Reale Unima (Royal Unova)</string>
+			<string id="142047">Staz. Ruotadentata (Gear Station)</string>
+			<string id="142048">Metrò Lotta (Battle Subway)</string>
+			<string id="142049">Teatro Musical (Musical Theater)</string>
+			<string id="142050">Città Nera (Black City)</string>
+			<string id="142051">Foresta Bianca (White Forest)</string>
+			<string id="142052">Torre Unione (Unity Tower)</string>
+			<string id="142053">Falda Sotterranea (Wellspring Cave)</string>
+			<string id="142054">Cava Ponentopoli (Mistralton Cave)</string>
+			<string id="142055">Radura Filosofia (Rumination Field)</string>
+			<string id="142056">Torre Cielo (Celestial Tower)</string>
+			<string id="142057">Palude Mistralopoli (Moor Of Icirrus)</string>
+			<string id="142058">Magazzini (Shopping Mall)</string>
+			<string id="142059">Caverna Ascesi (Challenger's Cave)</string>
+			<string id="142060">Centro Pokétrasporto (Poké Transfer Lab)</string>
+			<string id="142061">Grotte Cyclopéenne (Giant Chasm)</string>
+			<string id="142062">Fossa Gigante (Liberty Garden)</string>
+			<string id="142063">Laboratorio P&amp;P (P2 Laboratory)</string>
+			<string id="142064">Ponte Freccialuce (Skyarrow Bridge)</string>
+			<string id="142065">Ponte Libecciopoli (Driftveil Drawbridge)</string>
+			<string id="142066">Ponte Propulsione (Tubeline Bridge)</string>
+			<string id="142067">Ponte Villaggio (Village Bridge)</string>
+			<string id="142068">Ponte Meraviglie (Marvelous Bridge)</string>
+			<string id="142069">Intramondo (Entralink)</string>
+			<string id="142070">Tempio Abbondanza (Abundant Shrine)</string>
+			<string id="142071">Baia Spiraria (Undella Bay)</string>
+			<string id="142072">Bosco Smarrimento (Lostlorn Forest)</string>
+			<string id="142073">Sala del Cimento (Trial Chamber)</string>
+			<string id="142074">Sala della Guida (Guidance Chamber)</string>
+			<string id="142075">Bosco Intramondo (Entree Forest)</string>
+			<string id="142106">Varco Quattroventi (Accumula Gate)</string>
+			<string id="142107">Varco Spiraria (Undella Gate)</string>
+			<string id="142108">Varco Zefiropoli (Nacrene Gate)</string>
+			<string id="142109">Varco Austropoli (Castelia Gate)</string>
+			<string id="142110">Varco Sciroccopoli (Nimbasa Gate)</string>
+			<string id="142111">Varco Boreduopoli (Opelucid Gate)</string>
+			<string id="142112">Varco Nero (Black Gate)</string>
+			<string id="142113">Varco Bianco (White Gate)</string>
+			<string id="142114">Varco Ponte (Bridge Gate)</string>
+			<string id="142115">Varco Percorso (Route Gate)</string>
+			<string id="142116">Rovine degli Abissi (Abyssal Ruins)</string>
+		<!-- Sinnoh -->
+			<string id="143000">Zona Misteriosa (Mystery Zone)</string>
+			<string id="143001">Duefoglie (Twinleaf Town)</string>
+			<string id="143002">Sabbiafine (Sandgem Town)</string>
+			<string id="143003">Giardinfiorito (Floaroma Town)</string>
+			<string id="143004">Flemminia (Solaceon Town)</string>
+			<string id="143005">Memoride (Celestic Town)</string>
+			<string id="143006">Giubilopoli (Jubilife City)</string>
+			<string id="143007">Canalipoli (Canalave City)</string>
+			<string id="143008">Mineropoli (Oreburgh City)</string>
+			<string id="143009">Evopoli (Eterna City)</string>
+			<string id="143010">Cuoripoli (Hearthome City)</string>
+			<string id="143011">Pratopoli (Pastoria City)</string>
+			<string id="143012">Rupepoli (Veilstone City)</string>
+			<string id="143013">Arenipoli (Sunyshore City)</string>
+			<string id="143014">Nevepoli (Snowpoint City)</string>
+			<string id="143015">Lega Pokémon (Pokémon League)</string>
+			<!-- Percorsi -->
+			<string id="143016">Percorso 201 (Route 201)</string>
+			<string id="143017">Percorso 202 (Route 202)</string>
+			<string id="143018">Percorso 203 (Route 203)</string>
+			<string id="143019">Percorso 204 (Route 204)</string>
+			<string id="143020">Percorso 205 (Route 205)</string>
+			<string id="143021">Percorso 206 (Route 206)</string>
+			<string id="143022">Percorso 207 (Route 207)</string>
+			<string id="143023">Percorso 208 (Route 208)</string>
+			<string id="143024">Percorso 209 (Route 209)</string>
+			<string id="143025">Percorso 210 (Route 210)</string>
+			<string id="143026">Percorso 211 (Route 211)</string>
+			<string id="143027">Percorso 212 (Route 212)</string>
+			<string id="143028">Percorso 213 (Route 213)</string>
+			<string id="143029">Percorso 214 (Route 214)</string>
+			<string id="143030">Percorso 215 (Route 215)</string>
+			<string id="143031">Percorso 216 (Route 216)</string>
+			<string id="143032">Percorso 217 (Route 217)</string>
+			<string id="143033">Percorso 218 (Route 218)</string>
+			<string id="143034">Percorso 219 (Route 219)</string>
+			<string id="143035">Percorso 220 (Route 220)</string>
+			<string id="143036">Percorso 221 (Route 221)</string>
+			<string id="143037">Percorso 222 (Route 222)</string>
+			<string id="143038">Percorso 223 (Route 223)</string>
+			<string id="143039">Percorso 224 (Route 224)</string>
+			<string id="143040">Percorso 225 (Route 225)</string>
+			<string id="143041">Percorso 226 (Route 226)</string>
+			<string id="143042">Percorso 227 (Route 227)</string>
+			<string id="143043">Percorso 228 (Route 228)</string>
+			<string id="143044">Percorso 229 (Route 229)</string>
+			<string id="143045">Percorso 230 (Route 230)</string>
+			<string id="143046">Cava Mineropoli (Oreburgh Mine)</string>
+			<string id="143047">Impianto Turbine (Valley Windworks)</string>
+			<string id="143048">Bosco Evopoli (Eterna Forest)</string>
+			<string id="143049">Fonderie Fuego (Fuego Ironworks)</string>
+			<string id="143050">Monte Corona (Mt. Coronet)</string>
+			<string id="143051">Vetta Lancia (Spear Pillar)</string>
+			<string id="143052">Gran Palude (Great Marsh)</string>
+			<string id="143053">Rovine Flemminia (Solaceon Ruins)</string>
+			<string id="143054">Via Vittoria (Victory Road)</string>
+			<string id="143055">Parco Amici (Pal Park)</string>
+			<string id="143056">Parco Concordia (Amity Square)</string>
+			<string id="143057">Cammino Roccioso (Ravaged Path)</string>
+			<string id="143058">Prato Fiorito (Floaroma Meadow)</string>
+			<string id="143059">Varco Mineropoli (Oreburgh Gate)</string>
+			<string id="143060">Isola Lunapiena (Fullmoon Island)</string>
+			<string id="143061">Fonte Saluto (Sendoff Spring)</string>
+			<string id="143062">Grotta Ritorno (Turnback Cave)</string>
+			<string id="143063">Paradiso Fiore (Flower Paradise)</string>
+			<string id="143064">Tempio Nevepoli (Snowpoint Temple)</string>
+			<string id="143065">Grotta Labirinto (Wayward Cave)</string>
+			<string id="143066">Grotta Rovine (Ruin Maniac Cave)</string>
+			<string id="143067">Tunnel Rovine (Maniac Tunnel)</string>
+			<string id="143068">Giardino Trofeo (Trophy Garden)</string>
+			<string id="143069">Isola Ferrosa (Iron Island)</string>
+			<string id="143070">Antico Château (Old Chateau)</string>
+			<string id="143071">Sede Galassia (Galactic HQ)</string>
+			<string id="143072">Riva Verità (Verity Lakefront)</string>
+			<string id="143073">Riva Valore (Valor Lakefront)</string>
+			<string id="143074">Riva Arguzia (Acuity Lakefront)</string>
+			<string id="143075">Sentiero Fonte (Spring Path)</string>
+			<string id="143076">Lago Verità (Lake Verity)</string>
+			<string id="143077">Lago Valore (Lake Valor)</string>
+			<string id="143078">Lago Arguzia (Lake Acuity)</string>
+			<string id="143079">Isola Lunanuova (Newmoon Island)</string>
+			<string id="143080">Torre Lotta (Battle Tower)</string>
+			<string id="143081">Area Sfida (Fight Area)</string>
+			<string id="143082">Area Provviste (Survival Area)</string>
+			<string id="143083">Area Svago (Resort Area)</string>
+			<string id="143084">Monte Ostile (Stark Mountain)</string>
+			<string id="143085">Via Frangimare (Seabreak Path)</string>
+			<string id="143086">Spazio Origine (Hall of Origin)</string>
+			<string id="143087">Grotta Verità (Verity Cavern)</string>
+			<string id="143088">Grotta Valore (Valor Cavern)</string>
+			<string id="143089">Grotta Arguzia (Acuity Cavern)</string>
+			<string id="143090">Giubilo TV (Jubilife TV)</string>
+			<string id="143091">PokéKron SpA (Pokétch Co.)</string>
+			<string id="143092">GTS</string>
+			<string id="143093">Sc. Allenatori (Trainers' School)</string>
+			<string id="143094">Museo Minerario (Mining Museum)</string>
+			<string id="143095">Fiorista (Flower Shop)</string>
+			<string id="143096">Negozio Bici (Cycle Shop)</string>
+			<string id="143097">Arena Virtù (Contest Hall)</string>
+			<string id="143098">Casa Poffin (Poffin House)</string>
+			<string id="143099">Edificio Culture (Foreign Building)</string>
+			<string id="143100">Pensione Pokémon (Pokémon Day Care)</string>
+			<string id="143101">C. C. Rupepoli (Veilstone Store)</string>
+			<string id="143102">Casinò (Game Corner)</string>
+			<string id="143103">Bibl. Canalipoli (Canalave Library)</string>
+			<string id="143104">Faro Panorama (Vista Lighthouse)</string>
+			<string id="143105">Merc. Arenipoli (Sunyshore Market)</string>
+			<string id="143106">Villa Pokémon (Pokémon Mansion)</string>
+			<string id="143107">Casa Impronta (Footstep House)</string>
+			<string id="143108">Caffè (Café)</string>
+			<string id="143109">Grande Lago (Grand Lake)</string>
+			<string id="143110">Ristorante (Restaurant)</string>
+			<string id="143111">Giardino Lotta (Battle Park)</string>
+			<string id="143112">Parco Lotta (Battle Frontier)</string>
+			<string id="143113">Azienda Lotta (Battle Factory)</string>
+			<string id="143114">Maniero Lotta (Battle Castle)</string>
+			<string id="143115">Arena Lotta (Battle Arcade)</string>
+			<string id="143116">Palco Lotta (Battle Hall)</string>
+			<string id="143117">Mondo Distorto (Distortion World)</string>
+			<string id="143118">Centro Globale (Global Terminal)</string>
+			<string id="143119">Villa (Villa)</string>
+			<string id="143120">Casa Lotta (Battleground)</string>
+			<string id="143121">Stanza di ROTOM (Rotom's Room)</string>
+			<string id="143122">Edificio T. G. (T.G. Eterna Bldg)</string>
+			<string id="143123">Rovine Ferro (Iron Ruins)</string>
+			<string id="143124">Rovine Iceberg (Iceberg Ruins)</string>
+			<string id="143125">Rovine Picco (Rock Peak Ruins)</string>
+		<!-- Johto -->
+			<string id="144015">Lega Pokémon (Pokémon League)</string>
+			<string id="144112">Parco Lotta (Battle Frontier)</string>
+			<string id="144126">Borgo Foglianova (New Bark Town)</string>
+			<string id="144127">Fiorpescopoli (Cherrygrove City)</string>
+			<string id="144128">Violapoli (Violet City)</string>
+			<string id="144129">Azalina (Azalea Town)</string>
+			<string id="144130">Fiorlisopoli (Cianwood City)</string>
+			<string id="144131">Fiordoropoli (Goldenrod City)</string>
+			<string id="144132">Olivinopoli (Olivine City)</string>
+			<string id="144133">Amarantopoli (Ecruteak City)</string>
+			<string id="144134">Mogania (Mahogany Town)</string>
+			<string id="144135">Lago d'Ira (Lake of Rage)</string>
+			<string id="144136">Ebanopoli (Blackthorn City)</string>
+			<string id="144137">Monte Argento (Mt. Silver)</string>
+			<string id="144147">Altopiano Blu (Indigo Plateau)</string>
+			<!-- Percorsi -->
+			<string id="144149">Percorso 1 (Route 1)</string>
+			<string id="144150">Percorso 2 (Route 2)</string>
+			<string id="144151">Percorso 3 (Route 3)</string>
+			<string id="144152">Percorso 4 (Route 4)</string>
+			<string id="144153">Percorso 5 (Route 5)</string>
+			<string id="144154">Percorso 6 (Route 6)</string>
+			<string id="144155">Percorso 7 (Route 7)</string>
+			<string id="144156">Percorso 8 (Route 8)</string>
+			<string id="144157">Percorso 9 (Route 9)</string>
+			<string id="144158">Percorso 10 (Route 10)</string>
+			<string id="144159">Percorso 11 (Route 11)</string>
+			<string id="144160">Percorso 12 (Route 12)</string>
+			<string id="144161">Percorso 13 (Route 13)</string>
+			<string id="144162">Percorso 14 (Route 14)</string>
+			<string id="144163">Percorso 15 (Route 15)</string>
+			<string id="144164">Percorso 16 (Route 16)</string>
+			<string id="144165">Percorso 17 (Route 17)</string>
+			<string id="144166">Percorso 18 (Route 18)</string>
+			<string id="144167">Percorso 19 (Route 19)</string>
+			<string id="144168">Percorso 20 (Route 20)</string>
+			<string id="144169">Percorso 21 (Route 21)</string>
+			<string id="144170">Percorso 22 (Route 22)</string>
+			<string id="144171">Percorso 23 (Route 23)</string>
+			<string id="144172">Percorso 24 (Route 24)</string>
+			<string id="144173">Percorso 25 (Route 25)</string>
+			<string id="144174">Percorso 26 (Route 26)</string>
+			<string id="144175">Percorso 27 (Route 27)</string>
+			<string id="144176">Percorso 28 (Route 28)</string>
+			<string id="144177">Percorso 29 (Route 29)</string>
+			<string id="144178">Percorso 30 (Route 30)</string>
+			<string id="144179">Percorso 31 (Route 31)</string>
+			<string id="144180">Percorso 32 (Route 32)</string>
+			<string id="144181">Percorso 33 (Route 33)</string>
+			<string id="144182">Percorso 34 (Route 34)</string>
+			<string id="144183">Percorso 35 (Route 35)</string>
+			<string id="144184">Percorso 36 (Route 36)</string>
+			<string id="144185">Percorso 37 (Route 37)</string>
+			<string id="144186">Percorso 38 (Route 38)</string>
+			<string id="144187">Percorso 39 (Route 39)</string>
+			<string id="144188">Percorso 40 (Route 40)</string>
+			<string id="144189">Percorso 41 (Route 41)</string>
+			<string id="144190">Percorso 42 (Route 42)</string>
+			<string id="144191">Percorso 43 (Route 43)</string>
+			<string id="144192">Percorso 44 (Route 44)</string>
+			<string id="144193">Percorso 45 (Route 45)</string>
+			<string id="144194">Percorso 46 (Route 46)</string>
+			<string id="144195">Percorso 47 (Route 47)</string>
+			<string id="144196">Percorso 48 (Route 48)</string>
+			<string id="144202">Zona Safari (Safari Zone)</string>
+			<string id="144203">Isole Spumarine (Seafoam Islands)</string>
+			<string id="144204">Torre Sprout (Sprout Tower)</string>
+			<string id="144205">Torre Campana (Bell Tower)</string>
+			<string id="144206">Torre Bruciata (Burned Tower)</string>
+			<string id="144207">Parco Nazionale (National Park)</string>
+			<string id="144208">Torre Radio (Radio Tower)</string>
+			<string id="144209">Rovine d'Alfa (Ruins of Alph)</string>
+			<string id="144210">Grotta di mezzo (Union Cave)</string>
+			<string id="144211">Pozzo SLOWPOKE (SLOWPOKE Well)</string>
+			<string id="144212">Faro (Lighthouse)</string>
+			<string id="144213">Covo Team Rocket (Team Rocket HQ)</string>
+			<string id="144214">Bosco di Lecci (Ilex Forest)</string>
+			<string id="144215">Fiortunnel (Goldenrod Tunnel)</string>
+			<string id="144216">Monte Scodella (Mt. Mortar)</string>
+			<string id="144217">Via Gelata (Ice Path)</string>
+			<string id="144218">Isole Vorticose (Whirl Islands)</string>
+			<string id="144219">Grotta Argento (Mt. Silver Cave)</string>
+			<string id="144220">Grotta Scura (Dark Cave)</string>
+			<string id="144221">Via Vittoria (Victory Road)</string>
+			<string id="144222">Tana del Drago (Dragon's Den)</string>
+			<string id="144223">Cascate Tohjo (Tohjo Falls)</string>
+			<string id="144225">Arena Pokéathlon (Pokéathlon Dome)</string>
+			<string id="144226">M/N Acqua (S.S. Aqua)</string>
+			<string id="144227">Ingresso Safari (Safari Zone Gate)</string>
+			<string id="144228">Grotta Falesia (Cliff Cave)</string>
+			<string id="144229">Accesso al Parco (Frontier Access)</string>
+			<string id="144230">Sentiero Din Don (Bellchime Trail)</string>
+			<string id="144231">Rovine Sinjoh (Sinjoh Ruins)</string>
+			<string id="144232">Torre Occulta (Embedded Tower)</string>
+			<string id="144233">Pokéwalker (Pokéwalker)</string>
+			<string id="144234">Ingresso Falesia (Cliff Edge Gate)</string>
+</strings>
